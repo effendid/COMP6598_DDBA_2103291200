@@ -1,4 +1,10 @@
 import java.util.Scanner;
+/*
+            Adnan Bayu Aji		2440101295
+            Dwi Mahmud Effendi	2440076343
+            Pebry Harnelfi Mirza	2440099561
+            Arighi Yuskowanastra	2440099321
+*/
 
 public class TugasKelompokDuaNomorDua {
   public static void main(String[] args) {
